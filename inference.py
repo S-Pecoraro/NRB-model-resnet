@@ -11,7 +11,7 @@ from tqdm import tqdm
 import argparse
 import cv2
 import io
-#import picamera as picam#
+#import picamera as picam
 import numpy as np
 from datetime import date
 
